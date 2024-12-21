@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChaitraNaik8794
 - 👀 I’m interested in ...Building Applications for real world
-- 🌱 I’m currently learning ...HTML & Python
+- 🌱 I’m currently learning ... Restful API and Java automation
 - 💞️ I’m looking to collaborate on ...Projects in DB Management, enhancement and optimization
 - 📫 How to reach me ...@chaitranaik8794@gmail.com
 
